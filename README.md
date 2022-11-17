@@ -16,6 +16,8 @@ A simple and user friendly Checkers game with an AI using the minimax algorythm.
 
 ![alt text](https://github.com/SAAD-BEN/Checkers_IA/tree/main/screenshots/2.png?raw=true)
 
+![alt text](https://github.com/SAAD-BEN/Checkers_IA/blob/main/screenshots/1.png?raw=true)
+
 ![alt text](https://github.com/SAAD-BEN/Checkers_IA/tree/main/screenshots/3.png?raw=true)
 
 ![alt text](https://github.com/SAAD-BEN/Checkers_IA/tree/main/screenshots/4.png?raw=true)
